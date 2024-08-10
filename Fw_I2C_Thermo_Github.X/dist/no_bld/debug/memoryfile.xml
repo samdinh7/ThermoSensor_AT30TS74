@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/no_bld/debug/Fw_I2C_Thermo.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>267408</length>                 
+      <used>7940</used>                     
+      <free>259468</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>33280</length>                 
+      <used>2328</used>                     
+      <free>30952</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
