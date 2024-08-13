@@ -1,7 +1,0 @@
-build/no_bld/production/mcc_generated_files/clock.o: \
- mcc_generated_files/clock.c mcc_generated_files/clock.h \
- mcc_generated_files/system.h
-
-mcc_generated_files/clock.h:
-
-mcc_generated_files/system.h:
